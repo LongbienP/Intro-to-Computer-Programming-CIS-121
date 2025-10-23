@@ -1,5 +1,5 @@
-#include <iostream>
-#include <string>
+#include <iostream> // only for cin, cout, endl
+#include <string> // only for strings
 
 using namespace std;
 
@@ -45,5 +45,6 @@ int main() {
     cout << "Number of Students: " << studentCount << endl; // Displays number of students
 
     return 0;
+
 
 }
