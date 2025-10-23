@@ -1,5 +1,5 @@
-#include <iostream>
-#include <string>
+#include <iostream> // only for cin, cout, endl
+#include <string> // only for strings
 
 using namespace std;
 
@@ -74,5 +74,6 @@ int main() {
     cout << "Average Pay: $" << averagePay << endl; // Displays average pay
 
     return 0;
+
 
 }
